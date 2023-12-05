@@ -1,2 +1,1 @@
-# Minecraft-For-New-3DS-Decompile
-A wip Minecraft For New 3DS Decompile
+# 3DS Enhancement Project For 3DS Minecraft
